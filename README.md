@@ -2,14 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Sakine%20Cansu%20Topcı&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Analyst%20|%20Web%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=18"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Sakine Cansu Topcı</h1>
+<h1 align="center">Hi 👋 I'm Sakine Cansu Topci</h1>
 
 <h3 align="center">
 Management Information Systems Graduate
 </h3>
 
 <p align="center">
-📊 Aspiring Data Analyst • 💻 Web Developer • 🤖 AI Enthusiast
+📊 Data Analyst • 💻 Web Developer • 🤖 AI Enthusiast
 </p>
 
 <p align="center">
@@ -54,7 +54,7 @@ Turning data into insights and ideas into software.
 ### Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind"/>
 </p>
 
 ### Database
