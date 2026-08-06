@@ -116,6 +116,7 @@ A social impact platform designed to raise awareness about violence against wome
 **Technologies (Planned)**
 
 PHP • HTML • CSS • JavaScript • MySQL
+
 ---
 
 # 📫 Connect With Me
