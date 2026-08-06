@@ -109,10 +109,13 @@ A platform where users can anonymously send digital paper boats containing messa
 
 ---
 
-### 🛡 KAYRA
+### 🛡️ KAYRA
 
-A social responsibility platform designed to preserve memories and provide support resources for women affected by violence.
+A social impact platform developed to raise awareness about violence against women, preserve memories, and provide support resources for survivors.
 
+**Technologies (Planned)**
+
+PHP • HTML • CSS • JavaScript • MySQL
 ---
 
 # 📊 GitHub Stats
@@ -154,7 +157,7 @@ A social responsibility platform designed to preserve memories and provide suppo
 
 📧 **Email:** s.cansutopci@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
+💼 **LinkedIn:** https://linkedin.com/in/s-cansu-topci/
 
 🌐 **GitHub:** https://github.com/c2nsu
 
