@@ -103,12 +103,6 @@ Python • Pandas • NumPy • Matplotlib
 
 ---
 
-### 👥 İçeridekiler
-
-A social platform where friends can create private rooms, organize activities and share memories.
-
----
-
 ### 🌊 Kağıt Gemi
 
 A platform where users can anonymously send digital paper boats containing messages.
