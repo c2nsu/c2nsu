@@ -20,13 +20,13 @@ Turning data into insights and ideas into software.
 
 ## 👩‍💻 About Me
 
-🎓 I graduated from **Management Information Systems**.
+🎓 I graduated in **Management Information Systems**.
 
-📊 I am currently improving my skills in **Data Analytics**.
+📊 I am currently developing my skills in **Data Analytics**, with a focus on Python, SQL and Power BI.
 
-💻 I enjoy developing web applications and solving real-world problems with data.
+💻 I enjoy building web applications and creating data-driven solutions.
 
-🚀 I love learning new technologies and continuously improving myself through projects.
+🚀 I believe in continuous learning and enjoy turning ideas into real projects.
 
 🎯 My career goal is to become a **Data Analyst** while strengthening my software development skills.
 
