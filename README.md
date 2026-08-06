@@ -85,7 +85,7 @@ Turning data into insights and ideas into software.
 
 ### 💰 AI Budget Tracking System
 
-AI-supported budget management system developed for university students.
+An AI-powered web application that helps university students manage their budgets, monitor expenses and improve financial planning.
 
 **Technologies**
 
@@ -95,7 +95,7 @@ PHP • HTML • CSS • JavaScript • MySQL
 
 ### 📊 Rental House Data Analysis
 
-Performed data cleaning and exploratory data analysis using Python.
+Performed data cleaning, preprocessing and exploratory data analysis (EDA) on rental housing datasets using Python.
 
 **Technologies**
 
@@ -105,13 +105,13 @@ Python • Pandas • NumPy • Matplotlib
 
 ### 🌊 Kağıt Gemi
 
-A platform where users can anonymously send digital paper boats containing messages.
+A web application where users can anonymously share thoughts and emotions through digital paper boats.
 
 ---
 
 ### 🛡️ KAYRA
 
-A social impact platform developed to raise awareness about violence against women, preserve memories, and provide support resources for survivors.
+A social impact platform designed to raise awareness about violence against women, preserve memories and provide access to support resources.
 
 **Technologies (Planned)**
 
@@ -131,6 +131,10 @@ PHP • HTML • CSS • JavaScript • MySQL
 </p>
 
 ---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=c2nsu&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
+</p>
 
 <p align="center">
 
