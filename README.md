@@ -124,23 +124,6 @@ PHP • HTML • CSS • JavaScript • MySQL
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=c2nsu&show_icons=true&theme=tokyonight&hide_border=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2nsu&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=c2nsu&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=c2nsu&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
 ---
 
 # 📈 Activity Graph
