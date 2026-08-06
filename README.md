@@ -127,7 +127,7 @@ A social impact platform designed to raise awareness about violence against wome
 
 📧 **Email:** s.cansutopci@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN
+💼 **LinkedIn:** https://linkedin.com/in/s-cansu-topci/
 
 🌐 **GitHub:** https://github.com/c2nsu
 
