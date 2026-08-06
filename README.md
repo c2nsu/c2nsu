@@ -118,22 +118,6 @@ A social impact platform developed to raise awareness about violence against wom
 PHP • HTML • CSS • JavaScript • MySQL
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=c2nsu&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c2nsu&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
----
-
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=c2nsu&theme=tokyo-night"/>
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="left">
