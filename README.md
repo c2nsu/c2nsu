@@ -48,13 +48,13 @@ Turning data into insights and ideas into software.
 ### Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,php,js,kotlin,dart"/>
+<img src="https://skillicons.dev/icons?i=python,php,kotlin,dart"/>
 </p>
 
 ### Web Development
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind"/>
 </p>
 
 ### Database
