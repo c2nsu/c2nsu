@@ -103,6 +103,11 @@ Turning data into insights and ideas into software.
 * Model Evaluation
 * Cross Validation
 * TensorFlow / Keras
+* PyTorch
+* Hugging Face Transformers
+* Wav2Vec2
+* ONNX
+* Librosa
 * MobileNetV2
 * Transfer Learning
 * Data Augmentation
@@ -121,6 +126,71 @@ Turning data into insights and ideas into software.
 ---
 
 # 🚀 Featured Projects
+
+## 🎙️ VoiceSense AI — Speech Emotion Recognition
+
+A **Wav2Vec2-based Speech Emotion Recognition (SER)** project that classifies emotions from speech audio.
+
+The model was fine-tuned on the **RAVDESS** dataset with a **speaker-independent** setup and evaluated on actors it never saw during training.
+
+The system predicts four emotions:
+
+* 😐 Neutral
+* 😊 Happy
+* 😢 Sad
+* 😠 Angry
+
+```text
+Audio Input
+      ↓
+Audio Preprocessing
+      ↓
+Wav2Vec2 Feature Extractor
+      ↓
+Fine-Tuned Emotion Classifier
+      ↓
+Emotion Probabilities
+      ↓
+Calibration
+      ↓
+Streamlit Interface
+```
+
+### Key Features
+
+* 🎙️ Audio file upload and microphone recording
+* 🧠 Wav2Vec2 fine-tuning with PyTorch
+* 🧪 Speaker-independent split (Train: Actors 1–16, Validation: 17–20, Test: 21–24)
+* 🎯 Class-wise logit offset calibration, optimized on the validation set only
+* 📊 Emotion probabilities and confidence analysis
+* ⚠️ Low-confidence warning (below 60%) that also shows the second most likely emotion
+* 🔊 Real-world self test with my own voice recordings
+* ⚡ PyTorch / ONNX CPU inference benchmark
+* 🖥️ Interactive Streamlit interface
+
+### Results (Unseen Test Speakers)
+
+| Model                    |  Accuracy |  Macro-F1 |
+| ------------------------ | --------: | --------: |
+| Wav2Vec2 Zero-Shot       |     0.286 |     0.115 |
+| Fine-Tuned Wav2Vec2      |     0.786 |     0.781 |
+| Fine-Tuned + Calibration | **0.821** | **0.811** |
+
+The test set was not used during calibration to avoid data leakage.
+
+### Technical Notes
+
+* **Audio windowing:** 5-second windows; longer recordings are split and the window probabilities are averaged.
+* **Overfitting control:** 3 epochs, frozen feature encoder and best-checkpoint selection by validation Macro-F1.
+* **ONNX benchmark:** ONNX FP32 produced the same predictions as PyTorch (20/20). INT8 quantization reduced model size by about 4x but was slower on CPU for this model, so the final version uses PyTorch + safetensors.
+
+> ⚠️ The model is trained on acted English speech (RAVDESS) and has not yet been validated on other datasets or natural conversations. Confidence values should not be interpreted as true probabilities.
+
+**Technologies**
+
+Python • PyTorch • Hugging Face Transformers • Wav2Vec2 • Librosa • Scikit-learn • ONNX • Streamlit
+
+---
 
 ## 🧠 Brain Tumor Analysis & Classification
 
@@ -399,9 +469,9 @@ My projects allow me to practice different stages of the data lifecycle while co
 | ------------------- | ----------------------------------------------------------------------- |
 | 📊 Data Analytics   | DataInsight, WhatsApp Analysis, Spotify Analysis, Rental House Analysis |
 | 🤖 Machine Learning | Kira Price Prediction                                                   |
-| 🧠 Deep Learning    | Brain Tumor Analysis                                                    |
+| 🧠 Deep Learning    | Brain Tumor Analysis, VoiceSense AI                                     |
 | 💻 Web Development  | AI Budget Tracking, Kağıt Gemi, KAYRA                                   |
-| 📈 Dashboard        | DataInsight, WhatsApp Analysis, Spotify Analysis, Brain Tumor Analysis  |
+| 📈 Dashboard        | DataInsight, WhatsApp Analysis, Spotify Analysis, Brain Tumor Analysis, VoiceSense AI |
 
 ---
 
